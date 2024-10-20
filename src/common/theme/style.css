@@ -1,0 +1,6 @@
+body { top: 0 !important; }
+iframe.goog-te-banner-frame { visibility: hidden; }
+#goog-gt-tt { display: none !important; }
+.skiptranslate { position:fixed; left:30px; bottom:30px; overflow: hidden; width:125px;}
+.skiptranslate > iframe { top:auto; bottom:-38px; width: 100% !important; }
+.goog-te-combo {width: 100%;}
